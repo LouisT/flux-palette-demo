@@ -1,6 +1,6 @@
 # Flux Palette demo
 
-A Hexo site showcasing [Flux Palette](themes/flux-palette/README.md), with palettes, rich content, projects, search, and reading tools.
+A Hexo site showcasing [Flux Palette](https://github.com/LouisT/hexo-theme-flux-palette), with palettes, rich content, projects, search, and reading tools.
 
 [Live demo](https://flux-palette.louist.dev/)
 
@@ -25,11 +25,11 @@ Open the localhost URL printed by Hexo. `serve` cleans and builds the site befor
 
 - [_config.yml](_config.yml): site details, URLs, social links, and Hexo settings.
 - [_config.flux-palette.yml](_config.flux-palette.yml): theme preferences, merged over the shipped defaults.
-- [Theme guide](themes/flux-palette/README.md): content tags, projects, series, and feature settings.
+- [Theme guide](https://github.com/LouisT/hexo-theme-flux-palette): content tags, projects, series, and feature settings.
 
 Keep site preferences in the dedicated theme config, without a `theme_config:` wrapper. Leave the theme's shipped defaults unchanged.
 
-For [remote search](themes/flux-palette/README.md#search), copy `.env.example` to `.env` and fill in only the selected provider's variables. The theme loads it automatically; shell/CI values take precedence. Restart Hexo after editing it. Keep secrets out of Git, and replace and revoke any previously committed Supabase write key.
+For [remote search](https://github.com/LouisT/hexo-theme-flux-palette#search), copy `.env.example` to `.env` and fill in only the selected provider's variables. The theme loads it automatically; shell/CI values take precedence. Restart Hexo after editing it. Keep secrets out of Git, and replace and revoke any previously committed Supabase write key.
 
 ## Update the theme
 
