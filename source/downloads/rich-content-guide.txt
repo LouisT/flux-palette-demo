@@ -1,0 +1,7 @@
+Rich content authoring checklist
+
+1. Give meaningful images descriptive alternative text.
+2. Use unique IDs for progress blocks and figures.
+3. Preview every component on desktop and mobile.
+4. Check links and downloadable files before publishing.
+5. Downloads are public even inside protected articles.

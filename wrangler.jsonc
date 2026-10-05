@@ -1,0 +1,8 @@
+{
+    "name": "flux-palette-demo",
+    "compatibility_date": "2026-01-18",
+    "assets": {
+        "directory": "./public",
+        "not_found_handling": "404-page"
+    }
+}

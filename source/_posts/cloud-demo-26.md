@@ -1,0 +1,13 @@
+---
+title: "Cloud Demo 26: Updates Sample"
+date: 2021-01-26 08:30:00
+tags: [cloud-demo, category-cloud, updates]
+categories: [Updates]
+description: "Sample archived content used to populate the category cloud."
+---
+
+This is seeded demo content for the category cloud.
+
+Category focus: **Updates**.
+
+The purpose of this post is to provide realistic cloud weighting and link density.
