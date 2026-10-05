@@ -77,7 +77,7 @@ comments: # GitHub-backed comment widgets.
   service: giscus # Comment provider: giscus or utterances.
   sync_theme: true # Match the comment widget to the selected light or dark palette.
   giscus: # GitHub Discussions settings from the giscus setup page.
-    repo: "LouisT/hexo-theme-flux-palette" # Repository in owner/name format.
+    repo: "LouisT/flux-palette-demo" # Repository in owner/name format.
     repo_id: "R_kgDOU75OjQ" # Repository ID provided by giscus.
     category: "General" # Discussion category used for comments.
     category_id: "DIC_kwDOU75Ojc4DHDck" # ID of the selected discussion category.
