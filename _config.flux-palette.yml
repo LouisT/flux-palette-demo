@@ -26,8 +26,8 @@ sidebar: # Sidebar sections and appearance.
     background_opacity_light: 0.45 # Default pattern opacity for light palettes, from 0 to 1.
     background_animations: true # Animate the selected SVG background; readers can toggle this in Theme.
     background_motion: 1 # Motion amount from 0 (still) to 2 (lively); 1 is normal.
-    # Background keys: triangles, diamonds, hexagons, cubes, circles, rings, grid, diagonal, chevrons, mosaic,
-    # circuits, constellation, prisms, contours, panels, scanlines, weave, crosshair, orbits, shards.
+    # Background keys: triangles, cubes, circles, rings, grid, diagonal, chevrons, mosaic,
+    # circuits, constellation, contours, scanlines, weave, crosshair.
     # include: [solar-amber, paper-and-ink] # Optional subset; include both defaults.
 
 blog: # Settings for the /blog/ post listing.
