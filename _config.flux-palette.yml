@@ -17,10 +17,17 @@ sidebar: # Sidebar sections and appearance.
   social_buttons: # Buttons using the social links in _config.yml.
     enabled: true # Show social buttons in the sidebar.
     size: 1.6em # CSS font size for the social icons.
-  palette_selector: # Reader controls for selecting a color palette.
-    enabled: true # Show the palette selector.
+  palette_selector: # Reader controls for palettes and geometric backgrounds.
+    enabled: true # Show the Theme section.
     default_dark: solar-amber # Initial palette for a dark color-scheme preference.
     default_light: paper-and-ink # Initial palette for a light color-scheme preference.
+    default_background: triangles # SVG background style; see the available keys below.
+    background_opacity_dark: 0.25 # Default pattern opacity for dark palettes, from 0 to 1.
+    background_opacity_light: 0.45 # Default pattern opacity for light palettes, from 0 to 1.
+    background_animations: true # Animate the selected SVG background; readers can toggle this in Theme.
+    background_motion: 1 # Motion amount from 0 (still) to 2 (lively); 1 is normal.
+    # Background keys: triangles, diamonds, hexagons, cubes, circles, rings, grid, diagonal, chevrons, mosaic,
+    # circuits, constellation, prisms, contours, panels, scanlines, weave, crosshair, orbits, shards.
     # include: [solar-amber, paper-and-ink] # Optional subset; include both defaults.
 
 blog: # Settings for the /blog/ post listing.
