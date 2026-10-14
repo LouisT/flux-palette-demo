@@ -15,7 +15,7 @@
         "version": "8.1.2"
     },
     "dependencies": {
-        "@swc/core": "^1.16.13",
+        "@swc/core": "^1.16.18",
         "hexo": "^8.1.2",
         "hexo-generator-archive": "^2.0.0",
         "hexo-generator-category": "^2.0.0",
